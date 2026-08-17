@@ -1,0 +1,4 @@
+#profile-title: FreeForYoung SG Ultra V3
+#announce: Singapore verified pool
+#subscription-auto-update-enable: 1
+#subscriptions-sort-type: ping
