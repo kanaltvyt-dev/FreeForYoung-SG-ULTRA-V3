@@ -6,9 +6,9 @@ ss://2022-blake3-aes-256-gcm:fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0=@167.15
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QUtpa1ZpRS9tOE9sVkVmanlvd28vS0V1eGlmZWE1aEZVRFlUbG9JMlNXOD0@161.118.225.233:56927#🇸🇬@FreakConfig
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R1FxYnFPWHV4WkVOekFRTk5CTkhOMWYwRzk4UDN0OTI5dmY5MzJxWWNsdz0@161.118.220.20:56927#@meliproxyy
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TFl1WFBLbE5GMVYyalkvVVd4RkE4d3JJUnp3UGVDTGtxcWsvNnkxMlRLOD0=@168.138.177.12:56927#🇸🇬146490
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#@v2raybaaz
-vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#T.me/Vpn_Mafia
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.30:8880?path=/&security=&encryption=none&host=vms.lifetime35.workers.dev&type=ws#🚀t.me/iProxyChannel
-trojan://AE62539071@integral-quetzal.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3ASG
-vless://c739bb1d-5fc7-4f45-acec-534267a1f1e7@3696b38bsg.murphyweb.sbs:32166/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=buylite.music.apple.com&fp=chrome&security=reality&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&packetEncoding=xudp#EPODONIOS
-trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?security=tls&sni=www.nintendogames.net#EPODONIOS
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6U2VYN2NMZlcrV1dnRm9jM25QU0J4UHhCUHRFNjNxd09ETXFwVWY3U2xobz0@168.107.81.254:56927#🇸🇬
+trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#@Selinc
+trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#🇭🇰HK
+trojan://AE62539071@13.229.94.200:443?fp=chrome&sni=massive-terrapin.rooster465.autos#🎈58@oneclickvpnkeys
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#@V2rayng3
+vless://c739bb1d-5fc7-4f45-acec-534267a1f1e7@3696b38bsg.murphyweb.sbs:32166/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=buylite.music.apple.com&fp=chrome&security=reality&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&packetEncoding=xudp#🇭🇰HK
