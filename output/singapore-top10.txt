@@ -7,8 +7,8 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QUtpa1ZpRS9tOE9sVkVmanlvd28vS0V1eGl
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R1FxYnFPWHV4WkVOekFRTk5CTkhOMWYwRzk4UDN0OTI5dmY5MzJxWWNsdz0@161.118.220.20:56927#@meliproxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#@v2raybaaz
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplbUwzZXpWMkhDcE9SaEp0WkI4dHNp@128.199.201.71:21902#@Hope_Net
-trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#@Selinc
-trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#🇭🇰HK
-trojan://AE62539071@13.229.94.200:443?fp=chrome&sni=massive-terrapin.rooster465.autos#🎈58@oneclickvpnkeys
-trojan://AE62539071@13.250.126.30:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&fp=chrome&sni=adapted-martin.rooster465.autos#@GozargahAzad|🇸🇬
-trojan://AE62539071@47.128.147.181:443?fp=chrome&sni=rich-mule.rooster465.autos#🎈57@oneclickvpnkeys
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#@V2rayng3
+vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@103.152.136.29:8443?encryption=none&fp=chrome&host=kjgdksgghre466.pages.dev&path=/&security=tls&sni=kjgdksgghre466.pages.dev&type=ws#🌀33@oneclickvpnkeys
+vless://efd11a89-7506-44ce-95b6-6654859f155b@178.128.52.52:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=zoom.us&alpn=h2&allowInsecure=1&fp=chrome&security=reality&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&sid=5a42dbd7e26a0415&packetEncoding=xudp#新加坡
+vless://928e6cce-8ced-4243-9a48-a6642edd09b0@111.119.235.145:13779?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=tesla.com&fp=chrome&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&allowInsecure=1#EPODONIOS
+vless://c739bb1d-5fc7-4f45-acec-534267a1f1e7@3696b38bsg.murphyweb.sbs:32166/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=buylite.music.apple.com&fp=chrome&security=reality&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&packetEncoding=xudp#EPODONIOS
