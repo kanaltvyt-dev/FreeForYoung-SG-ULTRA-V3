@@ -6,9 +6,9 @@ ss://2022-blake3-aes-256-gcm:fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0=@167.15
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R1FxYnFPWHV4WkVOekFRTk5CTkhOMWYwRzk4UDN0OTI5dmY5MzJxWWNsdz0@161.118.220.20:56927#kurdconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#@vpnserverrr⭐
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTmtoanROcDVhenp0SnE3bXVDZ1ZzSG1zcUsxWDZlMg==@51.79.159.145:443#🇸🇬147254
-vless://8890a66f-c7af-47ee-a682-2a4e343d3daa@sg2.miyazono-kaori.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sg-hyp-api.hoyoverse.com&fp=chrome&security=reality&pbk=Oh-r_LCdfRhSzm9zQEv-0jMO57hebZJzOmSTTGveh2c&sid=5f2ca3da385c#新加坡-07
-vless://8890a66f-c7af-47ee-a682-2a4e343d3daa@sg4.miyazono-kaori.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.changiairport.com&fp=chrome&security=reality&pbk=I2PQq5bidT2RjVCJt2r-eSVpLNY61quSYgS2dseomF8&sid=1dd8558159ecd0#新加坡-08
-vless://88DA9CA6-5E68-4687-A748-961B612DCED5@sg1-r.link-t7.com:10036/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&allowInsecure=1&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&packetEncoding=xudp#新加坡
-vless://90562d79-e7b7-4aa8-b86e-32537ab0ede5@163.128.98.140:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=Cas0ZJcBSzluAQsloMFnJblbrZCKyE3PGTSJAbPlNCs&sid=7be83fb9e5328293#比利时
-vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?flow=xtls-rprx-vision&spx=/&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&encryption=none&headerType=none&type=tcp&sni=www.amazon.com&fp=chrome&sid=7f7f&security=reality#@v2rayng3
-vless://d1153291-7d6f-4528-b8b1-a8a4920a1a8b@5iehome.cc:443?encryption=none&security=tls&sni=onisni.irandoc.info&fp=chrome&allowinsecure=0&type=ws&host=onisni.irandoc.info&path=/11030/api1#@meliproxyy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplbUwzZXpWMkhDcE9SaEp0WkI4dHNp@128.199.201.71:21902#@Hope_Net
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia
+ss://YWVzLTI1Ni1nY206alNVN2JHS3VwUTk2WUZ2Zg@139.180.133.90:80#🇸🇬147260
+trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#@Selinc
+trojan://AE62539071@47.128.147.181:443?fp=chrome&sni=rich-mule.rooster465.autos#🎈57@oneclickvpnkeys
+trojan://AE62539071@47.128.150.245:443?fp=chrome&sni=stirred-buck.rooster465.autos#🎈52@oneclickvpnkeys
