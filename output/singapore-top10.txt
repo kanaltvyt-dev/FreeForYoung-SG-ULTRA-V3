@@ -4,11 +4,11 @@
 #subscriptions-sort-type: ping
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NWU2TTdUY3ptVFhva2s4R0QvNHFiVVlXNTdETGlLMkRFTEpTRHN5eDlGRT0@134.185.94.203:56927#新加坡
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R1FxYnFPWHV4WkVOekFRTk5CTkhOMWYwRzk4UDN0OTI5dmY5MzJxWWNsdz0@161.118.220.20:56927#kurdconfig
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#@vpnserverrr⭐
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplbUwzZXpWMkhDcE9SaEp0WkI4dHNp@128.199.201.71:21902#@Hope_Net
+trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#@Selinc
+trojan://EQ30679154@47.129.160.142:443?security=tls&headerType=&type=tcp&sni=well-goshawk.rooster465.autos#🇸🇬|SG|@wxgqlfx|248
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@45.8.211.57:443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new-1.ariyuz.org#🚀t.me/iProxyChannel
-vless://90562d79-e7b7-4aa8-b86e-32537ab0ede5@163.128.98.140:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=Cas0ZJcBSzluAQsloMFnJblbrZCKyE3PGTSJAbPlNCs&sid=7be83fb9e5328293#比利时
-vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?flow=xtls-rprx-vision&spx=/&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&encryption=none&headerType=none&type=tcp&sni=www.amazon.com&fp=chrome&sid=7f7f&security=reality#@v2rayng3
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@111.119.235.145:13779?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tesla.com&fp=chrome&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&type=tcp&headerType=none#@Daily_Configs
-vless://F5363530-7194-486B-BF2C-9AF7E75F6543@sg4-r.link-t7.com:10039/?type=grpc&encryption=none&flow=&serviceName=update&sni=d1.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#新加坡
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#@V2rayng3
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.195.192:8686/?type=tcp&encryption=none&flow=&sni=www.apple.com&fp=chrome&security=reality&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f&packetEncoding=xudp#🇸🇬SG
+vless://8890a66f-c7af-47ee-a682-2a4e343d3daa@sg2.miyazono-kaori.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sg-hyp-api.hoyoverse.com&fp=chrome&security=reality&pbk=Oh-r_LCdfRhSzm9zQEv-0jMO57hebZJzOmSTTGveh2c&sid=5f2ca3da385c#新加坡-07
+vless://8890a66f-c7af-47ee-a682-2a4e343d3daa@sg4.miyazono-kaori.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.changiairport.com&fp=chrome&security=reality&pbk=I2PQq5bidT2RjVCJt2r-eSVpLNY61quSYgS2dseomF8&sid=1dd8558159ecd0#新加坡-08
