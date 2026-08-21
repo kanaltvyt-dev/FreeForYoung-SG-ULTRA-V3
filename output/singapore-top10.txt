@@ -5,10 +5,10 @@
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NWU2TTdUY3ptVFhva2s4R0QvNHFiVVlXNTdETGlLMkRFTEpTRHN5eDlGRT0@134.185.94.203:56927#新加坡
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R1FxYnFPWHV4WkVOekFRTk5CTkhOMWYwRzk4UDN0OTI5dmY5MzJxWWNsdz0@161.118.220.20:56927#kurdconfig
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bUszVTRDY3hyZUV4VCs0WmJRK2l4VENSQTBQcGJ3QjJxRVlIc2d5U2FMVT0@161.118.236.226:56927#[🇸🇬]t.me/ConfigV2RayNG
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#🇸🇬
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#kurdconfig
 ss://YWVzLTI1Ni1nY206alNVN2JHS3VwUTk2WUZ2Zg@139.180.133.90:80#channel_@networld_vpn
 trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#@Selinc
-trojan://fVZMat1g9H@172.236.133.188:52?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=172.236.133.188#kurdconfig
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#@V2rayng3
-vless://90562d79-e7b7-4aa8-b86e-32537ab0ede5@163.128.98.140:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=Cas0ZJcBSzluAQsloMFnJblbrZCKyE3PGTSJAbPlNCs&sid=7be83fb9e5328293#比利时
-vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?flow=xtls-rprx-vision&spx=/&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&encryption=none&headerType=none&type=tcp&sni=www.amazon.com&fp=chrome&sid=7f7f&security=reality#@v2rayng3
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@111.119.235.145:13779?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tesla.com&fp=chrome&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&type=tcp&headerType=none#@Daily_Configs
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@45.8.211.57:443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new-1.ariyuz.org#🚀t.me/iProxyChannel
+vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#T.me/Vpn_Mafia
+vless://6179bb85-fd73-4aa1-a10d-a7c017306c1b@6ucb-1936he6.qvanta.top:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=t3_QIEko7K1ONUIWGr4L84HNHszQ3zB_kOqkALiacRg&sid=43a85ad1c112e5d8&allowInsecure=1#🇸🇬SG-🚀@VPNine1
