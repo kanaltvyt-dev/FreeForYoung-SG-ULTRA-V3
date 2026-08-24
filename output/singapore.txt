@@ -3,12 +3,14 @@
 #subscription-auto-update-enable: 1
 #subscriptions-sort-type: ping
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NWU2TTdUY3ptVFhva2s4R0QvNHFiVVlXNTdETGlLMkRFTEpTRHN5eDlGRT0@134.185.94.203:56927#新加坡
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6S0ExL09BSGhhd1UydldwekNXemJvaDVTeTdQZjVvSlJhV3BVVWRWR25Wdz0@161.118.225.224:56927#🇸🇬
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SDhMS1lOcTMvNFdwZzlkS3ZOY0NvM1EvWjEyazNSMnNReUh6a2pFQmZIaz0@168.107.68.247:56927#🇸🇬SG
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TVdNNE1tSm1ZemRpTlRaak5UVXpNQT09Ok1qQTNabVk1TVdFdE9XRTNNQzAwTWc9PQ@m99cygua.4ya21vwd0lw6ngzk.awstrack.vip:16481#TW
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WTJGa056aGhaV1EwTXpBMU56bGhaQT09Ok9ETmlNalE0TkRNdFlUWTJNaTAwTWc9PQ@evjd8xfji5of.cdn000.com:31404#kurdconfig
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇸🇬
-vless://853d2e30-ea80-41e6-99d3-820c1bbf6860@163.128.99.217:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=8tDuCgf0_I1q5Ib_KgSR3v13Gb1QY6Q7AVTuU0xQXVc&sid=c6a6326c7e249a68#新加坡
-vless://d64d50bb-fe6f-49bd-bbfd-a6f02dc47d69@163.128.99.239:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=AAgK52aNv0or2NLswvbExwOdTFcNeUeC2hTsznFnPVQ&sid=b3e189533758eb90&packetEncoding=xudp#新加坡
+ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#Generalconfiig
+vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#T.me/Vpn_Mafia
+vless://6179bb85-fd73-4aa1-a10d-a7c017306c1b@162.128.84.142:443?security=reality&encryption=none&pbk=t3_QIEko7K1ONUIWGr4L84HNHszQ3zB_kOqkALiacRg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=43a85ad1c112e5d8#@vmesskhodam
+vless://8d1e0577-bfcb-4cbd-91c0-1f8788d4ba44@162.128.44.164:443?security=reality&encryption=none&pbk=rJ-aDop3jUC-FzyETfI2uDSXQ659PFlehr7XWm5Cm0A&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fe1a104caf309f5a#@erfanandroid
+trojan://Sn%2BJPr7a1JGWKxUrlhKrgTGajkOxbxUg@vip-sg-2.hkd4fwmg.vip:58277?security=tls&sni=vip-sg-2.hkd4fwmg.vip#%F0%9F%87%B8%F0%9F%87%ACSG-142.91.102.42-0170
 trojan://Edk07MJ3Xqg5cl1j5519zqwX2f2EFjON@vip-sg-1.hkd4fwmg.vip:21802?security=tls&sni=vip-sg-1.hkd4fwmg.vip#%F0%9F%87%B8%F0%9F%87%ACSG-64.235.45.208-0190
 vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS
