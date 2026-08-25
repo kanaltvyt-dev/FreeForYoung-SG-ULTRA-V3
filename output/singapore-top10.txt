@@ -5,8 +5,6 @@
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NWU2TTdUY3ptVFhva2s4R0QvNHFiVVlXNTdETGlLMkRFTEpTRHN5eDlGRT0@134.185.94.203:56927#新加坡
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SDhMS1lOcTMvNFdwZzlkS3ZOY0NvM1EvWjEyazNSMnNReUh6a2pFQmZIaz0@168.107.68.247:56927#🇸🇬SG
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TVdNNE1tSm1ZemRpTlRaak5UVXpNQT09Ok1qQTNabVk1TVdFdE9XRTNNQzAwTWc9PQ@m99cygua.4ya21vwd0lw6ngzk.awstrack.vip:16481#TW
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#@V2rayng3
 vless://53cdd75e-9597-4b04-89a4-d29ba3fe7d1f@sg.cloudata.eu.org:59485?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zsflrBjOk_fPWAngmKpBq_4a-5Aq33e1CmCaUgHjMmM&security=reality&sid=a230ce302a&sni=yahoo.com&type=tcp#sg-quan
-vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#T.me/Vpn_Mafia
-vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&security=reality&sid=4014ce9b0d82ad9d&sni=www.bing.com&type=tcp#Telegram:@v2rayng3
-vless://be154d71-04ca-4389-8a89-d14219b25cd7@162.128.87.50:443?security=reality&encryption=none&pbk=kwZBG2HBA1WN4eZW1GK0D9OVC4TPEs5J-ZeeBA2bVBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=08f1620e7ad50ca8#@mehrosaboran
+vless://D8ED7FFD-7AA8-4EEB-9020-18A1A38AE6CC@sg3-r.link-t7.com:10038/?type=grpc&encryption=none&flow=&serviceName=update&sni=d1.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#新加坡
