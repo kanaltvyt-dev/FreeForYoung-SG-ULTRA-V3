@@ -2,20 +2,11 @@
 #announce: Singapore only
 #subscription-auto-update-enable: 1
 #subscriptions-sort-type: ping
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6K1JWcnJZcGthOHZ6REcxSVpJSEVjdXlGU3V2Um5mcHlsSldtcWgzeEdPYz0@161.118.208.148:56927#[027551]
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MnhnRHBVdmN0L3J3NmY2d2ZxUTBOZVF6Wlo5TjhQTHZDVHVSdDFPVkJoZz0@158.178.239.69:56927#[027552]
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHM1SmlIZk1ncVNlTHhNSjAyaVZTcVhJblVocStOclB3cDB4TGM4alBBVT0@168.107.84.248:56927#kurdconfig
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bTVMSG1mU0FMaWRjRy9yeXMzbGtteVdWUlBlTXlta1pWbTNMYlNNNHAxZz0@161.118.215.233:56927#[027553]
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bTVMSG1mU0FMaWRjRy9yeXMzbGtteVdWUlBlTXlta1pWbTNMYlNNNHAxZz0@161.118.215.233:56927#🇸🇬
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TVdNNE1tSm1ZemRpTlRaak5UVXpNQT09Ok1qQTNabVk1TVdFdE9XRTNNQzAwTWc9PQ@m99cygua.4ya21vwd0lw6ngzk.awstrack.vip:16481#TW
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#🇸🇬
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:810#[027566]
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#@V2rayng3
-vless://4fe19d97-7b1d-4cb2-99ee-4bd8658a4c34@159.195.242.180:443?security=reality&encryption=none&pbk=tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=at2.tsumshop.org&sid=c8c75aaf699259b4#@Nexus_Panell
-vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#T.me/Vpn_Mafia
-vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&security=reality&sid=7f7f&sni=www.amazon.com&type=tcp#🇸🇬155972
-vless://a2428d88-0d96-4109-abbb-e1904bc4890e@122.248.203.37:51382?security=reality&encryption=none&pbk=hPOkfyi6Ck1euOqdlX0WCQpMfooi0TWYiydeGQkR3x8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#@bored_vpn
-vless://d64d50bb-fe6f-49bd-bbfd-a6f02dc47d69@163.128.99.239:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=AAgK52aNv0or2NLswvbExwOdTFcNeUeC2hTsznFnPVQ&sid=b3e189533758eb90&packetEncoding=xudp#新加坡
-vless://d64d6845-5da0-42b7-b81e-8263ca49a9d8@122.248.209.131:25436?security=reality&encryption=none&pbk=pDVraOonSeo3sj5G-Mw969DEc854v0Bpygh1N2xzFT0&host=v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=cb344f105044fc#@v2raybaaz
-vless://dd28ba19-c082-4472-96d8-a5c03d9cbacb@13.213.249.57:52786?security=reality&encryption=none&pbk=fBqmk4loQ6gWLiRk5NpwoRnAGl55PDr66fWEpkNM6Hs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=cb344f105044fc#Channel
-ss://YWVzLTI1Ni1nY206cmpWNFd5UDl0czVlRUdzcg@general-live-13877.holphappyeveryday.com:21381#EPODONIOS
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS
+vless://a965aaba-e7d0-44fc-84ad-cd7c341249aa@56.10.83.247:26146?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=tcp&security=reality&headerType=none&sni=www.intel.com&fp=chrome&insecure=1&allowInsecure=1&pbk=4cD2BKaVODTdo4soH4gLcB7Yj-hdLDKDhvbSNQgZLEM&sid=3ced8a51ce74468c&flow=xtls-rprx-vision#🇸🇬
+vless://65166c4d-a46c-40f9-83cb-ee599f5279cb@13.214.194.139:25193?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.intel.com&fp=chrome&pbk=Qsm5dVTgDmOCvRwi8M_WVE8EmeK6Ot9i-XIfCmM1zGg&sid=702186e48d5646&type=tcp&headerType=none#EPODONIOS
+vless://a2d84cff-5a0f-4559-b793-355d363a4738@13.212.45.128:12322?security=reality&encryption=none&pbk=AG7GDrwsSNOf3mXfGVRSKBwszQFJ_QDxqQPHlyN-HAw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=5b89483cf98148#EPODONIOS
+vless://ffa3ea5e-d64f-4dab-8d82-f1e7aee3b1c6@52.76.82.32:17611?security=reality&encryption=none&pbk=2E7IAX6_GkVKkX2MarHguCu4LZemZT7tk7QjaVW9x38&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=01727c4e8f245194#EPODONIOS
