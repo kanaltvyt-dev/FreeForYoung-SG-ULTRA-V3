@@ -11,4 +11,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCakVZM3Y1MlhxcVBGUEhFTXN5UEgvekcxQnA2TXl4dDZ
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia
 ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#vpnsal
 ss://YWVzLTI1Ni1nY206TUJXZDlNSDBKTWgyRzVvZA@194.87.10.112:8388#vpnsal
-vless://389e0591-86d6-408f-bf24-18f611a0c94b@66.42.62.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=kxuW6rJkcKU88l_sgqezrcMFEy4yofrgouBoKufWASs&sid=2fadfe9a357ec21e#新加坡
+ss://YWVzLTI1Ni1nY206cmpWNFd5UDl0czVlRUdzcg@general-live-13877.holphappyeveryday.com:21381#vpnsal
