@@ -6,9 +6,9 @@ ss://2022-blake3-chacha20-poly1305:8s5JiHfMgqSeLxMJ02iVSqXInUhq+NrPwp0xLc8jPAU=@
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NWU2TTdUY3ptVFhva2s4R0QvNHFiVVlXNTdETGlLMkRFTEpTRHN5eDlGRT0@134.185.94.203:56927#[026062]
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TVdNNE1tSm1ZemRpTlRaak5UVXpNQT09Ok1qQTNabVk1TVdFdE9XRTNNQzAwTWc9PQ@m99cygua.4ya21vwd0lw6ngzk.awstrack.vip:16481#TW
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#🇸🇬
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCakVZM3Y1MlhxcVBGUEhFTXN5UEgvekcxQnA2TXl4dDZRNytOeXY5N3g0PQ@206.189.40.108:54898#@meliproxyy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQWw2Zkthb2lBVks2NGt5dWFZRmFR@45.130.165.90:443#[026078]
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#@V2rayng3
-vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reality&encryption=none&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7f342137c20387#@B2Hub
-vless://4fe19d97-7b1d-4cb2-99ee-4bd8658a4c34@159.195.242.180:443?security=reality&encryption=none&pbk=tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=at2.tsumshop.org&sid=c8c75aaf699259b4#@Nexus_Panell
-vless://853d2e30-ea80-41e6-99d3-820c1bbf6860@163.128.99.217:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=8tDuCgf0_I1q5Ib_KgSR3v13Gb1QY6Q7AVTuU0xQXVc&sid=c6a6326c7e249a68#新加坡
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia
+ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg@194.233.94.119:80#vpnsal
+ss://YWVzLTI1Ni1nY206TUJXZDlNSDBKTWgyRzVvZA@194.87.10.112:8388#vpnsal
+ss://YWVzLTI1Ni1nY206cmpWNFd5UDl0czVlRUdzcg@general-live-13877.holphappyeveryday.com:21381#vpnsal
+trojan://319182a3-9ca5-456e-9acd-54e0df11b0be@172.237.81.74:46262/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#马来西亚
+vless://31356288-9325-4c99-86e4-2c0932d7db6a@13.212.190.98:57209?security=reality&encryption=none&pbk=K6TQmaACfjqOtGGzdXUdjH3CKuKdo6s3_10swCAU1wg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=f98458f4235fd5e3#@icv2ray
