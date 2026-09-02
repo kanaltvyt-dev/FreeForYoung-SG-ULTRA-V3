@@ -3,12 +3,12 @@
 #subscription-auto-update-enable: 1
 #subscriptions-sort-type: ping
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHM1SmlIZk1ncVNlTHhNSjAyaVZTcVhJblVocStOclB3cDB4TGM4alBBVT0@168.107.84.248:56927#kurdconfig
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.60.199.125:989#[033074]
-ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg==@103.172.116.103:9088#[033086]
-ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@103.172.116.79:9007#[033092]
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.251.124.72:8686?security=reality&encryption=none&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=628b3c90c98ead4f#@filembad
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#@V2rayng3
 vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reality&encryption=none&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7f342137c20387#@B2Hub
-vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&security=reality&sid=4014ce9b0d82ad9d&sni=www.bing.com&type=tcp#Telegram:@v2rayng3
-ss://YWVzLTI1Ni1nY206OFdETFNDVklGQjRJMjZHQg==@154.196.244.21:16011#EPODONIOS
-vless://65166c4d-a46c-40f9-83cb-ee599f5279cb@13.214.194.139:25193?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.intel.com&fp=chrome&pbk=Qsm5dVTgDmOCvRwi8M_WVE8EmeK6Ot9i-XIfCmM1zGg&sid=702186e48d5646&type=tcp&headerType=none#EPODONIOS
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#EPODONIOS
+vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@139.59.124.172:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=8.sahanwickramasinghe.me#برای
+vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?flow=xtls-rprx-vision&spx=/&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&encryption=none&headerType=none&type=tcp&sni=www.amazon.com&fp=chrome&sid=7f7f&security=reality#@v2rayng3
+vless://C1CE3941-AC6F-4E98-9791-3B33ABBAF64F@sg1-r.link-t7.com:10036/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&packetEncoding=xudp#SG
+vless://D8ED7FFD-7AA8-4EEB-9020-18A1A38AE6CC@sg3-r.link-t7.com:10038/?type=grpc&encryption=none&flow=&serviceName=update&sni=d1.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#新加坡
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.203:443?security=tls&sni=kkg.ylks.link&type=ws&path=/blue#@Hope_Net-join-us-on-Telegram
+vless://a2428d88-0d96-4109-abbb-e1904bc4890e@122.248.203.37:51382?security=reality&encryption=none&pbk=hPOkfyi6Ck1euOqdlX0WCQpMfooi0TWYiydeGQkR3x8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#@bored_vpn
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.250.104.109:443#EPODONIOS
