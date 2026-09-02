@@ -5,11 +5,8 @@
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHM1SmlIZk1ncVNlTHhNSjAyaVZTcVhJblVocStOclB3cDB4TGM4alBBVT0@168.107.84.248:56927#kurdconfig
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@47.128.254.170:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳#[033429]
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#@V2rayng3
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@206.238.237.232:443?security=tls&sni=xing.ylks.link&type=ws&path=/#@Hope_Net-join-us-on-Telegram
-vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reality&encryption=none&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7f342137c20387#@B2Hub
-vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@139.59.124.172:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=8.sahanwickramasinghe.me#برای
 vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?flow=xtls-rprx-vision&spx=/&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&encryption=none&headerType=none&type=tcp&sni=www.amazon.com&fp=chrome&sid=7f7f&security=reality#@v2rayng3
-vless://C1CE3941-AC6F-4E98-9791-3B33ABBAF64F@sg1-r.link-t7.com:10036/?type=grpc&encryption=none&flow=&serviceName=update&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&packetEncoding=xudp#SG
-vless://D8ED7FFD-7AA8-4EEB-9020-18A1A38AE6CC@sg3-r.link-t7.com:10038/?type=grpc&encryption=none&flow=&serviceName=update&sni=d1.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#新加坡
 vless://d64d50bb-fe6f-49bd-bbfd-a6f02dc47d69@163.128.99.239:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=AAgK52aNv0or2NLswvbExwOdTFcNeUeC2hTsznFnPVQ&sid=b3e189533758eb90&packetEncoding=xudp#新加坡
+trojan://NQ26071394@quiet-condor.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-81.28.13.69-4713
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.213.46.196:443#%F0%9F%87%B8%F0%9F%87%ACSG-13.213.46.196-0151
