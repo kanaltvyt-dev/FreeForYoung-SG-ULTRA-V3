@@ -11,4 +11,4 @@ vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?encryption=none&
 vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?flow=xtls-rprx-vision&spx=/&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&encryption=none&headerType=none&type=tcp&sni=www.amazon.com&fp=chrome&sid=7f7f&security=reality#@v2rayng3
 vless://a2428d88-0d96-4109-abbb-e1904bc4890e@122.248.203.37:51382?security=reality&encryption=none&pbk=hPOkfyi6Ck1euOqdlX0WCQpMfooi0TWYiydeGQkR3x8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#@bored_vpn
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@149.88.23.207:18000?encryption=auto&security=none&type=tcp#4⛑️@oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#%3E%3E%40v2nodes%3A%3AXX
+trojan://CF68213490@harmless-lab.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-91.243.81.39-0185
