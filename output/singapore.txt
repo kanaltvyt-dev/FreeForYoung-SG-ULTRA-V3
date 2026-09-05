@@ -9,11 +9,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:806#[038821]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc=@176.97.64.144:8388#[038829]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@84.247.49.211:1080#🇸🇬
 vless://0f4ce6d4-b4b4-41b9-b1e7-c109ad32b274@47.129.204.35:58335?flow=xtls-rprx-vision&fp=chrome&headertype=none&host=www.tesla.com&path=/&pbk=5uFce3cR8rT889d0IDLpENoFf9OnFXaOoO9B8mI8cWQ&security=reality&sid=6ce3397cbd5ada&sni=www.tesla.com&type=tcp#[38294]
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#@V2rayng3
-vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reality&encryption=none&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7f342137c20387#🇸🇬
-vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?security=none&encryption=none&headerType=none&type=tcp#@V2raySaman
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇸🇬
-trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@20.24.44.110:28443?security=tls&sni=download.windowsupdate1.com#%F0%9F%87%B8%F0%9F%87%ACSG-20.24.44.110-0187
-trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@91.243.81.42:28443?security=tls&sni=download.windowsupdate1.com#%F0%9F%87%B8%F0%9F%87%ACSG-91.243.81.42-0196
-trojan://NQ26071394@quiet-condor.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-81.28.13.69-0242
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS
+vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#T.me/Vpn_Mafia
+vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&security=reality&sid=4014ce9b0d82ad9d&sni=www.bing.com&type=tcp#Telegram:@v2rayng3
+vless://D8ED7FFD-7AA8-4EEB-9020-18A1A38AE6CC@sg3-r.link-t7.com:10038/?type=grpc&encryption=none&flow=&serviceName=update&sni=d1.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&packetEncoding=xudp#新加坡
+vless://F2987FBA-B653-444D-8057-6B6474E448C6@sg4-r.link-t7.com:10039/?type=grpc&encryption=none&flow=&serviceName=update&sni=d1.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#新加坡
+vless://d4982aa0-e04e-4cd7-8d34-8ac7e17e9e77@img.yhxjlb.com:443?encryption=none&security=tls&sni=deup.irandoc.info&fp=chrome&alpn=h2,http/1.1&type=httpupgrade&host=deup.irandoc.info&path=/1003/api#@Daily_Configs
