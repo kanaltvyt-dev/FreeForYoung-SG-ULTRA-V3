@@ -4,10 +4,11 @@
 #subscriptions-sort-type: ping
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHM1SmlIZk1ncVNlTHhNSjAyaVZTcVhJblVocStOclB3cDB4TGM4alBBVT0@168.107.84.248:56927#@V2ray_confiig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#[38508]
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia
 ss://YWVzLTI1Ni1nY206cXBTZXZLYVVYWVFLdlNqcA@139.180.220.175:8388#🇸🇬
-vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&security=reality&sid=4014ce9b0d82ad9d&sni=www.bing.com&type=tcp#Telegram:@v2rayng3
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:10574#[38509]
-vless://D8ED7FFD-7AA8-4EEB-9020-18A1A38AE6CC@sg3-r.link-t7.com:10038/?type=grpc&encryption=none&flow=&serviceName=update&sni=d1.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&packetEncoding=xudp#新加坡
-vless://F2987FBA-B653-444D-8057-6B6474E448C6@sg4-r.link-t7.com:10039/?type=grpc&encryption=none&flow=&serviceName=update&sni=d1.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#新加坡
-trojan://ffcd5d19-d085-4ff1-b724-af203eaeea04@20.24.44.110:28443?security=tls&sni=download.windowsupdate1.com#%F0%9F%87%B8%F0%9F%87%ACSG-20.24.44.110-0187
-trojan://CF68213490@harmless-lab.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-91.243.81.39-0223
+vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#🇸🇬
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬
+vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&host=Telegram-Leviko_v2ray&security=reality&sni=sg2-8sb.6121999.dpdns.org&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2#🇺🇸
+vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@139.59.124.172:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=8.sahanwickramasinghe.me#@vasl_bashim
+vless://58f7687b-5209-4dcd-a11e-6e4eb2191378@149.118.55.234:443?pcs=e7e1a45c6c95c7de92d2005845335145f51e31e15b8683809fdcda2b0c0b5e25&path=/xlordgrim/sg&security=tls&encryption=none&insecure=0&host=edge.xlordgrim.com&type=ws&allowInsecure=0&sni=www.zoom.com#[🇸🇬]t.me/ConfigV2RayNG
+vless://5ba437f3-f2f4-42e6-be33-5c144eb11b83@u.tlpyun.com:443?encryption=mlkem768x25519plus.native.0rtt.e5SbzHPLc89CS3Yxin4L85aRpsBmmJbjH8nQ-COOKnI&security=tls&sni=lukas.irandoc.info&fp=chrome&type=ws&host=lukashost.irandoc.info&path=/api1/update#@V2ray_confiig
