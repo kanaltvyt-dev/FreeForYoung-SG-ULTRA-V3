@@ -4,8 +4,4 @@
 #subscriptions-sort-type: ping
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHM1SmlIZk1ncVNlTHhNSjAyaVZTcVhJblVocStOclB3cDB4TGM4alBBVT0@168.107.84.248:56927#@V2ray_confiig
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VXJMSU42QUxNVUdNclQ4VEtUeVB4eEJxMVpid1FwbnJwQkxkYnkzekNvQT0@161.118.246.248:56927#🇸🇬
-vless://2143c404-49a0-4e2d-af21-3e204cb8034c@pixelchatverse.com:443?encryption=none&security=tls&sni=channel.irandoc.info&fp=chrome&allowinsecure=0&type=httpupgrade&host=sni.irandoc.info&path=/1002/google&fragment=5-94,0,tlshello,&fm={"tcp":[{"settings":{"packets":"tlshello","length":"5-94","delay":"0","maxSplit":""},"type":"fragment"},{"settings":{"packets":"1-1","length":"109-1","delay":"1","maxSplit":"355"},"type":"fragment"}]}#@meliproxyy
-vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#T.me/Vpn_Mafia
-vless://D8ED7FFD-7AA8-4EEB-9020-18A1A38AE6CC@sg3-r.link-t7.com:10038/?type=grpc&encryption=none&flow=&serviceName=update&sni=d1.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&packetEncoding=xudp#新加坡
-vless://F2987FBA-B653-444D-8057-6B6474E448C6@sg4-r.link-t7.com:10039/?type=grpc&encryption=none&flow=&serviceName=update&sni=d1.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#新加坡
 vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS
