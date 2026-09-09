@@ -8,7 +8,7 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#Singapore
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia
 ss://YWVzLTI1Ni1nY206cXBTZXZLYVVYWVFLdlNqcA@139.180.220.175:8388#🇸🇬
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬
-vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&host=Telegram-Leviko_v2ray&security=reality&sni=sg2-8sb.6121999.dpdns.org&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2#🇺🇸
-vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@142.91.102.35:443?encryption=none&fp=chrome&security=tls&sni=8.sahanwickramasinghe.me&type=tcp#[044139]
-vless://58f7687b-5209-4dcd-a11e-6e4eb2191378@149.118.55.234:443?encryption=none&security=tls&sni=www.zoom.com&pcs=e7e1a45c6c95c7de92d2005845335145f51e31e15b8683809fdcda2b0c0b5e25&type=ws&host=edge.xlordgrim.com&path=/xlordgrim/sg#@Daily_Configs
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#@V2rayng3
+vless://3b733177-14f5-49d5-91e6-4dce73c038e3@47.131.211.4:33164?security=reality&encryption=none&pbk=Faf18bd52wn8u9_ZGjBvfW4hkzcMhhfZhc1giF8R4G8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=83905567c94f6679#🇸🇬
+vless://7b102311-43fd-4e8f-877e-8090623c101d@8.219.155.125:443?&security=tls&fp=chrome&sni=vp10.pages.dev&type=ws&headerType=none&host=vp10.pages.dev&path=/#🇺🇸
+vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?security=&encryption=none&headerType=none&type=tcp#Singapore
