@@ -9,9 +9,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.138:807#[04626
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.152:800#[046265]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#Singapore
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#@V2rayng3
-vless://44aedcca-28f8-411d-bed2-9bd6aa491cb5@54.151.153.129:59180?encryption=none&flow=xtls-rprx-vision&fp=&pbk=NntGU23khU2ASY2g1XM5_Vl0G39MyoXre5q7vanorDM&security=reality&sid=3ced8a51ce74468c&sni=www.tesla.com&type=tcp#🎡95@oneclickvpnkeys
 vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?encryption=none&flow=xtls-rprx-vision&fp=&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&security=reality&sid=7f342137c20387&sni=www.intel.com&type=tcp#🎡74@oneclickvpnkeys
-vless://81853004-816d-40c1-973f-2be269ba8051@54.254.51.144:52457?encryption=none&flow=xtls-rprx-vision&fp=&pbk=nA2aGvkk6Wf3NvrKavmZg_g01xujyrYAiCJS4x0kFHc&security=reality&sid=93ed34c8eea01f&sni=www.intel.com&type=tcp#2🎡@oneclickvpnkeys
+vless://58f7687b-5209-4dcd-a11e-6e4eb2191378@149.118.55.234:443?pcs=e7e1a45c6c95c7de92d2005845335145f51e31e15b8683809fdcda2b0c0b5e25&path=/xlordgrim/sg#TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=edge.xlordgrim.com&type=ws&allowInsecure=0&sni=www.zoom.com#2‎🛰️
 vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?flow=xtls-rprx-vision&spx=/&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&encryption=none&headerType=none&type=tcp&sni=www.amazon.com&fp=chrome&sid=7f7f&security=reality#@v2rayng3
-vless://c3e2c992-6721-443f-a051-331cb8a29fad@13.229.47.178:20414?security=reality&encryption=none&pbk=H4ZErlTUck4uQYnxtURj9aHLVXQIUHIPMI8dBz7wMVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=ed2cfa4d6d47e0#🇸🇬
+vless://956e22b4-2257-4251-a708-679e0518e374@54.254.182.69:44416?encryption=none&flow=xtls-rprx-vision&fp=&pbk=l0ERIlwtRtgldh9Kdles1rZrL3hKfityyhyu5U0Y6kM&security=reality&sid=29400ecf83e074&sni=www.sony.com&type=tcp#🎡94@oneclickvpnkeys
+vless://d318cdac-0033-4b6e-98bf-35116e79c93f@54.251.224.5:26017?encryption=none&flow=xtls-rprx-vision&fp=&pbk=cy4ePzAdSz4pqRmAXXchMIgSoSKo8qjq2qLk5805LRA&security=reality&sid=af1c2e33b0c7dad7&sni=www.amd.com&type=tcp#🎡89@oneclickvpnkeys
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@149.88.23.207:18000?encryption=auto&security=none&type=tcp#@V2ray_confiig
