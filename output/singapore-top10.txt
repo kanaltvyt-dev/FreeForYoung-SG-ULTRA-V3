@@ -2,9 +2,10 @@
 #announce: Singapore only
 #subscription-auto-update-enable: 1
 #subscriptions-sort-type: ping
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZXBwM285bmc4ZWo1OXV2@45.128.12.20:14249#🇸🇬
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#Singapore
+vless://00f8cbcc-bf10-418b-a842-35519f460c7f@www.hxino.com:443?path=/38284/api4&security=tls&encryption=mlkem768x25519plus.random.0rtt.bt6vamtdf4jPeuNn2b5eHC7VwnJ4KklEReD_AIAkfT0&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","length":"5-94","delay":"0","maxSplit":""}},{"type":"fragment","settings":{"packets":"1-1","length":"109-1","delay":"1","maxSplit":"355"}}]}&insecure=0&host=deh.irandoc.info&fp=chrome&type=httpupgrade&allowInsecure=0&sni=www.hxino.com#@V2ray_Alpha🫔
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#@V2rayng3
-vless://4e972d9e-4293-4815-874f-3865508607ea@www.tontagroup.com:443?path=/api1&security=tls&encryption=none&fm={
-vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?flow=xtls-rprx-vision&spx=/&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&encryption=none&headerType=none&type=tcp&sni=www.amazon.com&fp=chrome&sid=7f7f&security=reality#@v2rayng3
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#EPODONIOS
+vless://29b81e1a-1989-4778-b0cb-a7223730f59d@5.223.74.174:2053?encryption=none&type=tcp&security=reality&headerType=none&sni=5.223.74.174&fp=chrome&insecure=1&allowInsecure=1&pbk=pIkxGlcFFawk7e0T-2VcdFXOc9LsjoBhl47vl8EuRgg&sid=36151c48e28cfb65&spx=/&flow=xtls-rprx-vision#@V2ray_confiig
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬
+vless://408fbae6-a40b-4f0b-9723-0b4ce8e3d035@onhit.shalana.xyz:443?security=tls&sni=onhit.shalana.xyz&type=tcp#[57443]
+vless://bda35755-c838-49c3-a19e-3712f2d54275@163.128.99.14:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=-LuhwN_cSgNr7nYIfCcu_XAjviKVSGwVGHxmB-s1AD0&sid=e3a4bdfe3d6fd8ec&type=tcp&headerType=none&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI#Channel
+vless://00f8cbcc-bf10-418b-a842-35519f460c7f@www.hxino.com:443?path=/38284/api4&security=tls&encryption=mlkem768x25519plus.random.0rtt.bt6vamtdf4jPeuNn2b5eHC7VwnJ4KklEReD_AIAkfT0&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","length":"5-94","delay":"0","maxSplit":""}},{"type":"fragment","settings":{"packets":"1-1","length":"109-1","delay":"1","maxSplit":"355"}}]}&insecure=0&host=deh.irandoc.info&fp=chrome&type=httpupgrade&allowInsecure=0&sni=www.hxino.com#EPODONIOS
