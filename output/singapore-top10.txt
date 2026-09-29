@@ -4,11 +4,11 @@
 #subscriptions-sort-type: ping
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZXBwM285bmc4ZWo1OXV2@45.128.12.20:14249#🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#Singapore
-ss://YWVzLTI1Ni1nY206cXBTZXZLYVVYWVFLdlNqcA@139.180.220.175:8388#🇸🇬
-trojan://7647b321-4bfe-43f3-b21f-926c5de8f9b6@13.250.28.5:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#@Azaranv2ray
-vless://0803fc94-25f9-42db-9e6b-dd1418ae50ec@47.129.185.35:49805?security=reality&encryption=none&pbk=KhyeJbZtFAik5Mx1K_AQMIEK_MPwQnwUwSe-jTjq8yU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=4a753538b6a9eee9#🇸🇬
-vless://29b81e1a-1989-4778-b0cb-a7223730f59d@5.223.74.174:2053?encryption=none&type=tcp&security=reality&headerType=none&sni=5.223.74.174&fp=chrome&insecure=1&allowInsecure=1&pbk=pIkxGlcFFawk7e0T-2VcdFXOc9LsjoBhl47vl8EuRgg&sid=36151c48e28cfb65&spx=/&flow=xtls-rprx-vision#@V2ray_confiig
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬
-vless://408fbae6-a40b-4f0b-9723-0b4ce8e3d035@onhit.shalana.xyz:443?security=tls&sni=onhit.shalana.xyz&type=tcp#🇸🇬
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#@V2rayng3
+vless://4e972d9e-4293-4815-874f-3865508607ea@www.tontagroup.com:443?path=/api1&security=tls&encryption=none&fm={
 vless://58f7687b-5209-4dcd-a11e-6e4eb2191378@149.118.55.234:443?pcs=e7e1a45c6c95c7de92d2005845335145f51e31e15b8683809fdcda2b0c0b5e25&path=/xlordgrim/sg#TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=edge.xlordgrim.com&type=ws&allowInsecure=0&sni=www.zoom.com#2‎🛰️
-vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?flow=xtls-rprx-vision&spx=/&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&encryption=none&headerType=none&type=tcp&sni=www.amazon.com&fp=chrome&sid=7f7f&security=reality#@v2rayng3
+vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&security=reality&sid=4014ce9b0d82ad9d&sni=www.bing.com&type=tcp#Telegram:@v2rayng3
+vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#🇸🇬
+vless://d2761575-3f08-41ae-9dd1-33ccf86dddd1@69.48.229.50:40443?security=reality&encryption=none&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=deepl.com#@FarazV2ray
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%ACSG-68.183.227.4-0136
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@139.99.68.21:6379#%F0%9F%87%B8%F0%9F%87%ACSG-139.99.68.21-0021
