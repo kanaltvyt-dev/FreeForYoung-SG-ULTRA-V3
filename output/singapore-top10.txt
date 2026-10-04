@@ -4,11 +4,11 @@
 #subscriptions-sort-type: ping
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OVBmUmxJR3ZwTXM4bkQ3czY1Qi8zSXhjY1FHK3A2MzFYOXRDTFp5K0NSST0@161.118.219.5:56927#@ghand_sheken
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206c1VSNk55OFk2UFN2SGhsL0RVeGNvbnd4ZzZWWnlGZHNkZmFWQ3ZFYXRKbz06N2JURWhIZ3BFcktpUmpFMWVnYStINnBjcEpzTkxGQjBDalFzZXVqQUhyQT0@129.150.59.74:14384#9769
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZXBwM285bmc4ZWo1OXV2@45.128.12.20:14249#🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#Singapore
-trojan://UX82473651@18.143.92.167:443?sni=glowing-marmoset.rooster465.autos#🇸🇬187271
-vless://00f8cbcc-bf10-418b-a842-35519f460c7f@lovesykun.cn:443?path=/15753/socket&security=tls&encryption=none&insecure=0&host=dews.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=lovesykun.cn#Tel-@ProxyMtAlpha🐅
 vless://26524cce-d514-4014-a426-365fb266a14d@103.26.8.18:62357?path=/danfeng-pw8lj2-nzliwt-h23l-978coeve&security=tls&encryption=none&insecure=0&host=qcswhj2.edge-cache.danfeng4.xyz&fp=chrome&type=ws&allowInsecure=0&sni=qcswhj2.edge-cache.danfeng4.xyz#63
 vless://26524cce-d514-4014-a426-365fb266a14d@139.180.220.7:443?path=/danfeng-pw8lj2-nzliwt-h23l-978coeve&security=tls&encryption=none&insecure=0&host=qcswhj2.edge-cache.danfeng4.xyz&fp=chrome&type=ws&allowInsecure=0&sni=qcswhj2.edge-cache.danfeng4.xyz#108
 vless://26524cce-d514-4014-a426-365fb266a14d@152.42.246.237:443?path=/danfeng-pw8lj2-nzliwt-h23l-978coeve&security=tls&encryption=none&insecure=0&host=qcswhj2.edge-cache.danfeng4.xyz&fp=chrome&type=ws&allowInsecure=0&sni=qcswhj2.edge-cache.danfeng4.xyz#88
 vless://26524cce-d514-4014-a426-365fb266a14d@159.223.33.4:443?path=/danfeng-pw8lj2-nzliwt-h23l-978coeve&security=tls&encryption=none&insecure=0&host=qcswhj2.edge-cache.danfeng4.xyz&fp=chrome&type=ws&allowInsecure=0&sni=qcswhj2.edge-cache.danfeng4.xyz#109
+vless://26524cce-d514-4014-a426-365fb266a14d@194.156.163.191:8462?path=/danfeng-pw8lj2-nzliwt-h23l-978coeve&security=tls&encryption=none&insecure=0&host=qcswhj2.edge-cache.danfeng4.xyz&fp=chrome&type=ws&allowInsecure=0&sni=qcswhj2.edge-cache.danfeng4.xyz#83
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬
+vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&security=reality&sid=4014ce9b0d82ad9d&sni=www.bing.com&type=tcp#Telegram:@v2rayng3
