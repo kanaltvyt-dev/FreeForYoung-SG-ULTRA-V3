@@ -4,11 +4,11 @@
 #subscriptions-sort-type: ping
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OVBmUmxJR3ZwTXM4bkQ3czY1Qi8zSXhjY1FHK3A2MzFYOXRDTFp5K0NSST0@161.118.219.5:56927#@ghand_sheken
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206c1VSNk55OFk2UFN2SGhsL0RVeGNvbnd4ZzZWWnlGZHNkZmFWQ3ZFYXRKbz06N2JURWhIZ3BFcktpUmpFMWVnYStINnBjcEpzTkxGQjBDalFzZXVqQUhyQT0@129.150.59.74:14384#9769
-trojan://UX82473651@desired-boxer.rooster465.autos:443?allowInsecure=1#🦜95@oneclickvpnkeys
-trojan://UX82473651@glowing-marmoset.rooster465.autos:443?allowInsecure=1#🦜94@oneclickvpnkeys
-vless://0803fc94-25f9-42db-9e6b-dd1418ae50ec@47.129.185.35:49805?security=reality&encryption=none&pbk=KhyeJbZtFAik5Mx1K_AQMIEK_MPwQnwUwSe-jTjq8yU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=4a753538b6a9eee9#🇸🇬
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#Singapore
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia
+vless://26524cce-d514-4014-a426-365fb266a14d@103.26.8.18:62357?path=/danfeng-pw8lj2-nzliwt-h23l-978coeve&security=tls&encryption=none&insecure=0&host=qcswhj2.edge-cache.danfeng4.xyz&fp=chrome&type=ws&allowInsecure=0&sni=qcswhj2.edge-cache.danfeng4.xyz#63
+vless://26524cce-d514-4014-a426-365fb266a14d@139.180.220.7:443?path=/danfeng-pw8lj2-nzliwt-h23l-978coeve&security=tls&encryption=none&insecure=0&host=qcswhj2.edge-cache.danfeng4.xyz&fp=chrome&type=ws&allowInsecure=0&sni=qcswhj2.edge-cache.danfeng4.xyz#108
+vless://26524cce-d514-4014-a426-365fb266a14d@152.42.246.237:443?path=/danfeng-pw8lj2-nzliwt-h23l-978coeve&security=tls&encryption=none&insecure=0&host=qcswhj2.edge-cache.danfeng4.xyz&fp=chrome&type=ws&allowInsecure=0&sni=qcswhj2.edge-cache.danfeng4.xyz#88
+vless://26524cce-d514-4014-a426-365fb266a14d@159.223.33.4:443?path=/danfeng-pw8lj2-nzliwt-h23l-978coeve&security=tls&encryption=none&insecure=0&host=qcswhj2.edge-cache.danfeng4.xyz&fp=chrome&type=ws&allowInsecure=0&sni=qcswhj2.edge-cache.danfeng4.xyz#109
+vless://26524cce-d514-4014-a426-365fb266a14d@194.156.163.191:8462?path=/danfeng-pw8lj2-nzliwt-h23l-978coeve&security=tls&encryption=none&insecure=0&host=qcswhj2.edge-cache.danfeng4.xyz&fp=chrome&type=ws&allowInsecure=0&sni=qcswhj2.edge-cache.danfeng4.xyz#83
 vless://29b81e1a-1989-4778-b0cb-a7223730f59d@5.223.74.174:2053?security=reality&encryption=none&pbk=pIkxGlcFFawk7e0T-2VcdFXOc9LsjoBhl47vl8EuRgg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=5.223.74.174&sid=36151c48e28cfb65#@NETMelliAnti
-vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#@v2raybaaz
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬
-vless://3da32b09-10e5-4ef9-b422-2e476dd72d87@sg-1.gsafevpnapi.com:20270?security=reality&encryption=none&pbk=q78tZmuaXQTsrrjZtjjRDtoni6tzN-HhXcAY-iT5zF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=fc13d6208ebbae16#Free
-vless://58f7687b-5209-4dcd-a11e-6e4eb2191378@149.118.55.234:443?pcs=e7e1a45c6c95c7de92d2005845335145f51e31e15b8683809fdcda2b0c0b5e25&path=/xlordgrim/sg#TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=edge.xlordgrim.com&type=ws&allowInsecure=0&sni=www.zoom.com#2‎🛰️
