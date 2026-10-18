@@ -7,8 +7,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@54.255.177.5:8443#[094210]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZXBwM285bmc4ZWo1OXV2@45.128.12.20:14249#@vasl_bashim
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#Singapore
-vless://1a795c71-65e2-4c0c-ad22-b7d4fa2c678f@13.140.89.167:8080?mode=gun&security=reality&encryption=none&pbk=qSKOk8Ag2Qwn4_QNulh5J64YMC2qp_Zxvb3W2TrerRM&fp=chrome&spx=/b7963556fd18d2a&type=grpc&sni=www.goo.gl&sid=c8fd#🇸🇬196171
-vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.191.10:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=si1.lazeroe.com&sid=868419504747f6de#@irdusti(41)🇸🇬¹
-vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#T.me/Vpn_Mafia
-vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&security=reality&sid=4014ce9b0d82ad9d&sni=www.bing.com&type=tcp#Telegram:@v2rayng3
-vless://b17f6233-6726-41ff-9f62-fde7ccdbd282@545.150333.xyz:21001?security=reality&encryption=none&pbk=7RyQhh-unO6BjkHRVycWKlFyQgJ3vi5_bAI3Mc8CGCA&headerType=none&type=tcp&sni=www.cloudflare.com&sid=c6887d3b76ef73c9#@sora1co
+trojan://UX82473651@brave-tomcat.rooster465.autos:443?allowInsecure=1&sni=brave-tomcat.rooster465.autos#🇸🇬
+trojan://UX82473651@musical-mouse.rooster465.autos:443?allowInsecure=1&sni=musical-mouse.rooster465.autos#🇸🇬
+vless://00f8cbcc-bf10-418b-a842-35519f460c7f@lovesykun.cn:443?path=/15753/socket&security=tls&encryption=none&insecure=0&host=dews.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=lovesykun.cn#Tel-@ProxyMtAlpha🐅
+vless://00f8cbcc-bf10-418b-a842-35519f460c7f@www.hxino.com:443?path=/38284/api4&security=tls&encryption=mlkem768x25519plus.random.0rtt.bt6vamtdf4jPeuNn2b5eHC7VwnJ4KklEReD_AIAkfT0&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","length":"5-94","delay":"0","maxSplit":""}},{"type":"fragment","settings":{"packets":"1-1","length":"109-1","delay":"1","maxSplit":"355"}}]}&insecure=0&host=deh.irandoc.info&fp=chrome&type=httpupgrade&allowInsecure=0&sni=www.hxino.com#@V2ray_Alpha🫔
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬
