@@ -3,12 +3,12 @@
 #subscription-auto-update-enable: 1
 #subscriptions-sort-type: ping
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OVBmUmxJR3ZwTXM4bkQ3czY1Qi8zSXhjY1FHK3A2MzFYOXRDTFp5K0NSST0@161.118.219.5:56927#@ghand_sheken
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM=@13.250.31.67:8443#🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM=@47.129.227.153:8443#[094209]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@54.255.177.5:8443#[094210]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#Singapore
-vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.191.10:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&spx=/HesarWeb&type=tcp&flow=xtls-rprx-vision&sni=si1.lazeroe.com&sid=868419504747f6de#•
-vless://58f7687b-5209-4dcd-a11e-6e4eb2191378@149.118.55.234:443?pcs=e7e1a45c6c95c7de92d2005845335145f51e31e15b8683809fdcda2b0c0b5e25&path=/xlordgrim/sg#TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=edge.xlordgrim.com&type=ws&allowInsecure=0&sni=www.zoom.com#2‎🛰️
-vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#T.me/Vpn_Mafia
-vless://912ae4b3-a85a-477e-8b82-54fb8324d758@gate.athforce.ir:1880?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇸🇬
-vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?flow=xtls-rprx-vision&spx=/&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&encryption=none&headerType=none&type=tcp&sni=www.amazon.com&fp=chrome&sid=7f7f&security=reality#@v2rayng3
-vless://92d67828-4c56-4795-af5a-f387651380dc@trackydev.site:443?&security=tls&fp=chrome&sni=trackydev.site&type=ws&headerType=none&host=trackydev.site&path=/#🇱🇰
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.213.46.196:443#[102833]
+trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?security=tls&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#🇬🇧
+vless://00f8cbcc-bf10-418b-a842-35519f460c7f@lovesykun.cn:443?path=/15753/socket&security=tls&encryption=none&insecure=0&host=dews.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=lovesykun.cn#Tel-@ProxyMtAlpha🐅
+vless://00f8cbcc-bf10-418b-a842-35519f460c7f@www.hxino.com:443?path=/38284/api4&security=tls&encryption=mlkem768x25519plus.random.0rtt.bt6vamtdf4jPeuNn2b5eHC7VwnJ4KklEReD_AIAkfT0&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","length":"5-94","delay":"0","maxSplit":""}},{"type":"fragment","settings":{"packets":"1-1","length":"109-1","delay":"1","maxSplit":"355"}}]}&insecure=0&host=deh.irandoc.info&fp=chrome&type=httpupgrade&allowInsecure=0&sni=www.hxino.com#@V2ray_Alpha🫔
+vless://29b81e1a-1989-4778-b0cb-a7223730f59d@5.223.74.174:2053?security=reality&encryption=none&pbk=pIkxGlcFFawk7e0T-2VcdFXOc9LsjoBhl47vl8EuRgg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=5.223.74.174&sid=36151c48e28cfb65#@NETMelliAnti
