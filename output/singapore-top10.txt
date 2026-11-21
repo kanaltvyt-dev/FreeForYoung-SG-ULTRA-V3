@@ -2,13 +2,13 @@
 #announce: Singapore only
 #subscription-auto-update-enable: 1
 #subscriptions-sort-type: ping
-ss://2022-blake3-chacha20-poly1305:8SrAY2kEk9UHKSgUJjQvfdTJP9oPlSPVP1wICL7n3hk=@43.106.81.90:443#🇸🇬02
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OFNyQVkya0VrOVVIS1NnVUpqUXZmZFRKUDlvUGxTUFZQMXdJQ0w3bjNoaz0@43.106.81.90:443#@ConfigV2RayNG
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OVBmUmxJR3ZwTXM4bkQ3czY1Qi8zSXhjY1FHK3A2MzFYOXRDTFp5K0NSST0@161.118.219.5:56927#@ghand_sheken
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QzM0K3ppV3h2OFVMMUs0bTc0YlNJcUtnVVdOM1I1WGtTRGYrM3ZPajlSRT0@129.221.253.23:56927#🇨🇦
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6WWFVeHFuMUQ1bG5WbXdKTzFVdmRVaDBzZDc5aUhSeVZRWFF5SUFGVTI4ND0@129.221.246.25:56927#🇸🇬20@shadowsockskeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@13.229.75.115:8443#🇸🇬
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@18.143.179.74:8443#[419]
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia
 trojan://-kbAbEMlUlkHZkCc00Xq0Zu7p5x4WAa7@eksmstr-production.up.railway.app:443?path=/live/d76b7cf8-35ad-4417-bf04-e86cf84a19b4?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=eksmstr-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=eksmstr-production.up.railway.app#✅
 trojan://05cbf32b-7349-4497-b763-65702079929c@image-web-production-2ec53b05.up.railway.app:443?path=/tr/05cbf32b-7349-4497-b763-65702079929c&security=tls&insecure=0&host=image-web-production-2ec53b05.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=image-web-production-2ec53b05.up.railway.app#@V2raySaman
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#Tel-@AZARBAYJAB1🍶
-trojan://e72mPnUKt4rNf29k@vghui9ytyu-production.up.railway.app:443?path=/api/EhPu6G&security=tls&alpn=http/1.1&host=vghui9ytyu-production.up.railway.app&fp=chrome&type=ws&sni=vghui9ytyu-production.up.railway.app#@v2ray_phoenix
-trojan://gpbgrXRVqmGnc83U@dklietestyui-production.up.railway.app:443?security=tls&sni=dklietestyui-production.up.railway.app&alpn=http/1.1&fp=chrome&type=ws&host=dklietestyui-production.up.railway.app&path=/api/Z5B2YW#🇩🇪All⁷
-vless://2072d835-f8f2-c8e4-c2be-905ab3b936c3@soskeynets-vpn-production-98dc.up.railway.app:443?encryption=none&security=tls&type=ws&host=line-vpn-production-98dc.up.railway.app&path=/ws/2072d835-f8f2-c8e4-c2be-905ab3b936c3&sni=line-vpn-production-98dc.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸139732
-vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&security=reality&sid=4014ce9b0d82ad9d&sni=www.bing.com&type=tcp#Telegram:@v2rayng3
