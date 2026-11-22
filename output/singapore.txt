@@ -2,30 +2,31 @@
 #announce: Singapore only
 #subscription-auto-update-enable: 1
 #subscriptions-sort-type: ping
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OFNyQVkya0VrOVVIS1NnVUpqUXZmZFRKUDlvUGxTUFZQMXdJQ0w3bjNoaz0@43.106.81.90:443#@ConfigV2RayNG
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OFNyQVkya0VrOVVIS1NnVUpqUXZmZFRKUDlvUGxTUFZQMXdJQ0w3bjNoaz0@43.106.81.90:443#@vasl_bashim
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OVBmUmxJR3ZwTXM4bkQ3czY1Qi8zSXhjY1FHK3A2MzFYOXRDTFp5K0NSST0@161.118.219.5:56927#@ghand_sheken
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R01oWFJweS9wZlBNVnJaZUNBeE94STVNcHVIM2xsT3RaS29lTkxVVDBuOD0@158.178.230.120:56927#@ConfigV2RayNG
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZVY5cWpRNkMrVytWcnhJT2ZHdXRsQS9nOGErWitIVXJJUjgwRzBtdE1DUT0@129.221.217.100:56927#@ConfigV2RayNG
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0VVTDJBWm9lTGc5ND0=@43.160.213.146:8388#🇸🇬03
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0VVTDJBWm9lTGc5ND0=@43.160.213.146:8388#@V2rayNGVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@13.229.75.115:8443#🇸🇬
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.74:19999?type=tcp#@OutlineReleasedKey
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@leviko-sg6512.shopingggg.ir:19999#@meliproxyy
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999#@vpnsal
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999#VCONFING
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.164.133:19999#@ConfigV2RayNG
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.182.183:19999#🇸🇬
 ss://YWVzLTI1Ni1nY206cXBTZXZLYVVYWVFLdlNqcA@139.180.220.175:8388#@ConfigV2RayNG
-trojan://-kbAbEMlUlkHZkCc00Xq0Zu7p5x4WAa7@eksmstr-production.up.railway.app:443?path=/live/d76b7cf8-35ad-4417-bf04-e86cf84a19b4?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=eksmstr-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=eksmstr-production.up.railway.app#✅
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#Tel-@AZARBAYJAB1🍶
+trojan://-kbAbEMlUlkHZkCc00Xq0Zu7p5x4WAa7@eksmstr-production.up.railway.app:443?path=/live/d76b7cf8-35ad-4417-bf04-e86cf84a19b4?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=eksmstr-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=eksmstr-production.up.railway.app#@V2rayNPVTConfig
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#@V2rayNPVTConfig
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@bgsg1.hikigo.com:443?allowInsecure=1&sni=bgsg1.hikigo.com#🇸🇬SG-🚀@VPNine1
+trojan://5qSmRbERsGMASvzP@mortedaxsq-production.up.railway.app:443?path=/api/Ff45FJ&security=tls&alpn=http/1.1&insecure=0&host=mortedaxsq-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=mortedaxsq-production.up.railway.app#✅
 vless://2072d835-f8f2-c8e4-c2be-905ab3b936c3@soskeynets-vpn-production-98dc.up.railway.app:443?encryption=none&security=tls&type=ws&host=line-vpn-production-98dc.up.railway.app&path=/ws/2072d835-f8f2-c8e4-c2be-905ab3b936c3&sni=line-vpn-production-98dc.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸139732
 vless://24ea8ecb-83ee-d74c-60f0-6ba19b174bd9@multipanel-production-f5dd.up.railway.app:443?encryption=none&security=tls&sni=multipanel-production-f5dd.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/24ea8ecb-83ee-d74c-60f0-6ba19b174bd9&host=multipanel-production-f5dd.up.railway.app#کانال
-vless://2633cbab-e901-4f5a-9a0f-18ff319d0d70@xjpp.zjlo.top:36442?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#Channel
 vless://2875a288-7529-e166-3946-b30bfd0a54f9@multipanel-production-c923.up.railway.app:443?encryption=none&security=tls&sni=multipanel-production-c923.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/2875a288-7529-e166-3946-b30bfd0a54f9&host=multipanel-production-c923.up.railway.app#کانال
 vless://29b81e1a-1989-4778-b0cb-a7223730f59d@5.223.74.174:2053?security=reality&encryption=none&pbk=pIkxGlcFFawk7e0T-2VcdFXOc9LsjoBhl47vl8EuRgg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=5.223.74.174&sid=36151c48e28cfb65#@NETMelliAnti
+vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#@VPsave
+vless://44b5f8a4-11c0-4f69-b0e2-47c2fc05293b@mou789ihj-production.up.railway.app:443?path=/api/DP8gZ2&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=mou789ihj-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=mou789ihj-production.up.railway.app#13.
+vless://456b3e5b-0062-40bd-9530-8ae6e6ffa2d1@multipanel-production-c545.up.railway.app:443?encryption=none&security=tls&sni=multipanel-production-c545.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/456b3e5b-0062-40bd-9530-8ae6e6ffa2d1&host=multipanel-production-c545.up.railway.app#کانال
+vless://47d25a89-1535-40d4-b2ac-cb443d95b227@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=configfori.up.railway.app&path=/Telegram2:@Configfori#Telegram:
 vless://49b91402-f8e3-4390-9d7b-b7eddc2684a4@47.84.226.221:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.samsung.com&fp=chrome&security=reality&pbk=gVQsvRtzd77zlvKW4Gk0dAOJNPRa7cfN1-jVe_AJ8Bo&sid=e1c483f9d4437d42#🇸🇬21@exclavevpn
-vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@140.245.62.225:36442?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#@V2ray_confiig
 vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?security=none&encryption=none&headerType=none&type=tcp#@hopev2ray💕
-vless://bcdb425f-80bc-4ec8-92a5-8edf53639c01@207.148.124.12:8443?&security=tls&fp=chrome&sni=www.bing.com&type=tcp&headerType=none&path=/#🇸🇬
-vless://ca678d26-5435-4d13-b378-06c4c3b070ff@5.34.177.164:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=b2efed6d157e7bb0&pbk=cwWhNuekusD1iPZZ--7G891dU9PCacxyCYwsZxOApHA#🇸🇬
+vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@67.159.52.81:443?security=reality&type=tcp&packetEncoding=xudp&sni=sg.fasti.win&fp=chrome&flow=xtls-rprx-vision&sid=feedbacc&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs#🇯🇵
+vless://a78a95bd-7d15-4b09-ad7f-f1b77387e8e6@configfori3.up.railway.app:443?encryption=none&security=tls&sni=configfori3.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=configfori3.up.railway.app&path=/Telegram2:@Configfori#config2-configfori
+vless://b05c5bfc-0f53-474a-8a43-8d30af8bccd2@whitepanel-ui-production-84c0.up.railway.app:443?encryption=none&security=tls&sni=whitepanel-ui-production-84c0.up.railway.app&alpn=http/1.1&fp=chrome&type=ws&host=whitepanel-ui-production-84c0.up.railway.app&path=/ws/b05c5bfc-0f53-474a-8a43-8d30af8bccd2&headers={
+vless://b094c2b5-d341-192b-164d-bed33db75f40@x4g-production-efbb.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-efbb.up.railway.app&path=/ws/b094c2b5-d341-192b-164d-bed33db75f40&sni=x4g-production-efbb.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸139785
+vless://b17f6233-6726-41ff-9f62-fde7ccdbd282@545.150333.xyz:21001?security=reality&encryption=none&pbk=7RyQhh-unO6BjkHRVycWKlFyQgJ3vi5_bAI3Mc8CGCA&headerType=none&type=tcp&sni=www.cloudflare.com&sid=c6887d3b76ef73c9#@sora1co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#%3E%3E%40v2nodes%3A%3AXX
 vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&security=reality&sid=6ba85179e30d4fc2&sni=sg2-8sb.6121999.dpdns.org&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ASG
