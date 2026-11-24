@@ -4,11 +4,11 @@
 #subscriptions-sort-type: ping
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OFNyQVkya0VrOVVIS1NnVUpqUXZmZFRKUDlvUGxTUFZQMXdJQ0w3bjNoaz0@43.106.81.90:443#@vasl_bashim
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OVBmUmxJR3ZwTXM4bkQ3czY1Qi8zSXhjY1FHK3A2MzFYOXRDTFp5K0NSST0@161.118.219.5:56927#@ghand_sheken
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999#@vpnsal
-trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?sni=tx-hy2&allowInsecure=1&type=tcp#🇸🇬05
-trojan://e72mPnUKt4rNf29k@vghui9ytyu-production.up.railway.app:443?path=/api/EhPu6G&security=tls&alpn=http/1.1&host=vghui9ytyu-production.up.railway.app&fp=chrome&type=ws&sni=vghui9ytyu-production.up.railway.app#@v2ray_phoenix
-trojan://gpbgrXRVqmGnc83U@dklietestyui-production.up.railway.app:443?security=tls&sni=dklietestyui-production.up.railway.app&alpn=http/1.1&fp=chrome&type=ws&host=dklietestyui-production.up.railway.app&path=/api/Z5B2YW#🇩🇪All⁷
-vless://2072d835-f8f2-c8e4-c2be-905ab3b936c3@soskeynets-vpn-production-98dc.up.railway.app:443?encryption=none&security=tls&type=ws&host=line-vpn-production-98dc.up.railway.app&path=/ws/2072d835-f8f2-c8e4-c2be-905ab3b936c3&sni=line-vpn-production-98dc.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸139732
-vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@140.245.62.225:36442?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#@V2ray_confiig
-vless://b3be45af-c907-4320-9532-614c8cef5953@adambarfi.up.railway.app:443?encryption=none&security=tls&sni=adambarfi.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=adambarfi.up.railway.app&path=/adambarfi2#AdamBarfi-httpupgrade
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%ACSG-68.183.227.4-0271
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YzExSk1mQ01RM1k0YUdsaE1YNUxyTXBNMTN1dncrVVZiakdmSFArZUtrWT0=@168.138.177.98:56927#🇸🇬
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0VVTDJBWm9lTGc5ND0=@43.160.213.146:8388#@V2rayNGVPN
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.106.74:19999#🇸🇬
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.47:19999#🇸🇬
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.74:19999#🇸🇬
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.164.133:19999#🇸🇬
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.182.183:19999#🇸🇬
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@51.79.228.131:19999#🇸🇬
