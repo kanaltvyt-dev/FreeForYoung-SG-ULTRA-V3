@@ -2,13 +2,13 @@
 #announce: Singapore only
 #subscription-auto-update-enable: 1
 #subscriptions-sort-type: ping
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OFNyQVkya0VrOVVIS1NnVUpqUXZmZFRKUDlvUGxTUFZQMXdJQ0w3bjNoaz0@43.106.81.90:443#@vasl_bashim
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OVBmUmxJR3ZwTXM4bkQ3czY1Qi8zSXhjY1FHK3A2MzFYOXRDTFp5K0NSST0@161.118.219.5:56927#@ghand_sheken
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YzExSk1mQ01RM1k0YUdsaE1YNUxyTXBNMTN1dncrVVZiakdmSFArZUtrWT0=@168.138.177.98:56927#🇸🇬
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0VVTDJBWm9lTGc5ND0=@43.160.213.146:8388#@V2rayNGVPN
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.106.74:19999#🇸🇬
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.47:19999#🇸🇬
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.74:19999#🇸🇬
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.164.133:19999#🇸🇬
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.182.183:19999#🇸🇬
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@51.79.228.131:19999#🇸🇬
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia
+trojan://-kbAbEMlUlkHZkCc00Xq0Zu7p5x4WAa7@eksmstr-production.up.railway.app:443?path=/live/d76b7cf8-35ad-4417-bf04-e86cf84a19b4?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=eksmstr-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=eksmstr-production.up.railway.app#✅
+trojan://e72mPnUKt4rNf29k@vghui9ytyu-production.up.railway.app:443?path=/api/EhPu6G&security=tls&alpn=http/1.1&host=vghui9ytyu-production.up.railway.app&fp=chrome&type=ws&sni=vghui9ytyu-production.up.railway.app#@v2ray_phoenix
+trojan://gpbgrXRVqmGnc83U@dklietestyui-production.up.railway.app:443?security=tls&sni=dklietestyui-production.up.railway.app&alpn=http/1.1&fp=chrome&type=ws&host=dklietestyui-production.up.railway.app&path=/api/Z5B2YW#🇩🇪All⁷
+vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?security=reality&encryption=none&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=07a66150eac3db28#@VPsave
+vless://24ea8ecb-83ee-d74c-60f0-6ba19b174bd9@multipanel-production-f5dd.up.railway.app:443?encryption=none&security=tls&sni=multipanel-production-f5dd.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/24ea8ecb-83ee-d74c-60f0-6ba19b174bd9&host=multipanel-production-f5dd.up.railway.app#کانال
+vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@140.245.62.225:36442?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#@V2ray_confiig
+vless://UnboundWave@panel-production-1ecbbcad.up.railway.app:443?path=/api&security=tls&alpn=h2&encryption=none&insecure=0&host=panel-production-1ecbbcad.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=panel-production-1ecbbcad.up.railway.app#@UnboundWave🇳🇱
+vless://UnboundWave@panel-production-59527338.up.railway.app:443?path=/api&security=tls&alpn=h2&encryption=none&insecure=0&host=panel-production-59527338.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=panel-production-59527338.up.railway.app#@UnboundWave🇳🇱
