@@ -3,12 +3,12 @@
 #subscription-auto-update-enable: 1
 #subscriptions-sort-type: ping
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OVBmUmxJR3ZwTXM4bkQ3czY1Qi8zSXhjY1FHK3A2MzFYOXRDTFp5K0NSST0@161.118.219.5:56927#@ghand_sheken
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YzExSk1mQ01RM1k0YUdsaE1YNUxyTXBNMTN1dncrVVZiakdmSFArZUtrWT0=@168.138.177.98:56927#🇸🇬
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0VVTDJBWm9lTGc5ND0@43.160.213.146:8388#@appsooner
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@13.212.45.108:8443#🇸🇬
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbUZrTg@sg1.ssobfs.site:8388#@v2ray_phoenix
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#Tel-@AZARBAYJAB1🍶
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#🇸🇬
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@77.93.89.2:443?security=tls&sni=bgsg1.hikigo.com&type=tcp#🇸🇬
-vless://2072d835-f8f2-c8e4-c2be-905ab3b936c3@soskeynets-vpn-production-98dc.up.railway.app:443?encryption=none&security=tls&type=ws&host=line-vpn-production-98dc.up.railway.app&path=/ws/2072d835-f8f2-c8e4-c2be-905ab3b936c3&sni=line-vpn-production-98dc.up.railway.app&fp=chrome&alpn=http/1.1#🇺🇸139732
-vless://24ea8ecb-83ee-d74c-60f0-6ba19b174bd9@multipanel-production-f5dd.up.railway.app:443?encryption=none&security=tls&sni=multipanel-production-f5dd.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/24ea8ecb-83ee-d74c-60f0-6ba19b174bd9&host=multipanel-production-f5dd.up.railway.app#کانال
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbUZrTg@sg1.ssobfs.site:8388#@ConfigV2RayNG
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.106.73:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.106.74:19999#🇸🇬
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.47:19999#🇸🇬
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.74:19999#🇸🇬
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.164.133:19999#🇸🇬
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.182.183:19999#🇸🇬
