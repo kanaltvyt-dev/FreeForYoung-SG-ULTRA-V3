@@ -7,8 +7,8 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0V
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206aHhTVURzdmlQRXdINVpoZXdoV3pUdzJweDBaTGk2NzlmajlDVGd6QWxsVT06aStqOUFJQkxxQ21hc0lVaCtaTkhFVk5wdFYwTHdLUEIyQitzdDBNazR3MD0@5.223.59.197:21451#🇸🇬231510
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@13.212.45.108:8443#🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@47.129.155.154:8443#🇸🇬
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@77.93.89.2:443?security=tls&sni=bgsg1.hikigo.com&type=tcp#🇸🇬
-vless://24ea8ecb-83ee-d74c-60f0-6ba19b174bd9@multipanel-production-f5dd.up.railway.app:443?encryption=none&security=tls&sni=multipanel-production-f5dd.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/24ea8ecb-83ee-d74c-60f0-6ba19b174bd9&host=multipanel-production-f5dd.up.railway.app#کانال
-vless://2875a288-7529-e166-3946-b30bfd0a54f9@multipanel-production-c923.up.railway.app:443?encryption=none&security=tls&sni=multipanel-production-c923.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/2875a288-7529-e166-3946-b30bfd0a54f9&host=multipanel-production-c923.up.railway.app#کانال
-vless://29b81e1a-1989-4778-b0cb-a7223730f59d@5.223.74.174:2053?security=reality&encryption=none&pbk=pIkxGlcFFawk7e0T-2VcdFXOc9LsjoBhl47vl8EuRgg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=5.223.74.174&sid=36151c48e28cfb65#@NETMelliAnti
-vless://29e577fa-7019-0da3-520a-d845cf081c7c@x4g-production-a10a.up.railway.app:443?path=/ws/29e577fa-7019-0da3-520a-d845cf081c7c&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-a10a.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-a10a.up.railway.app#@VPsave
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbUZrTg@sg1.ssobfs.site:8388#@v2ray_phoenix
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.4:8080#@VPsave
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#Tel-@AZARBAYJAB1🍶
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#🇸🇬
+vless://0dedd47d-47b9-4ed1-9c9f-cbeecad57a68@43.163.112.174:443?security=reality&encryption=none&pbk=mXQudYHNu0pebcdk1_qn-UgcmwhjaV7y9UrYu3HX7Rg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0123456789abcdef#@ConfigV2RayNG
