@@ -6,9 +6,9 @@ ss://2022-blake3-aes-128-gcm:OzBviDR7xPkOMv24xwouYQ==:vnkLoKGWxu6RHEPSCrAaxw==@4
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OVBmUmxJR3ZwTXM4bkQ3czY1Qi8zSXhjY1FHK3A2MzFYOXRDTFp5K0NSST0@161.118.219.5:56927#@ghand_sheken
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0VVTDJBWm9lTGc5ND0=@43.160.213.146:8388#🇸🇬04
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM=@47.129.155.154:8443#🇸🇬
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbUZrTg@sg1.ssobfs.site:8388#@ConfigV2RayNG
-vless://024cf4e8-fa64-44ea-b22f-c28437120563@43.174.247.63:443?path=/51544/ws&security=tls&encryption=mlkem768x25519plus.native.0rtt.HgOBFNZBsI-IbLuV7IeOJbMRNb9CodLXi3YDHVWPWQU&insecure=0&host=ded1ws.samcdn.shop&fp=chrome&type=ws&allowInsecure=0&sni=msydjt.com#@Shh_Proxy-New¹⁰
-vless://076799f8-d922-4bf1-805d-e758e6eb925f@free.server.darknetlk.com:443?sni=aka.ms&fp=chrome&security=tls#🇸🇬
-vless://456b3e5b-0062-40bd-9530-8ae6e6ffa2d1@multipanel-production-c545.up.railway.app:443?encryption=none&security=tls&sni=multipanel-production-c545.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/456b3e5b-0062-40bd-9530-8ae6e6ffa2d1&host=multipanel-production-c545.up.railway.app#کانال
-vless://463dfa4d-c0b7-4d77-afb0-2db9dfe55106@node-production-3964e08e.up.railway.app:443?path=/ws/7f3c9a2e5b8d41c6&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.zKNRkGgS4hFBmXgY9DwKjBhsn50FrcDTolBxIYmHNic&insecure=0&host=node-production-3964e08e.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=node-production-3964e08e.up.railway.app#@UnboundWave
-vless://47d25a89-1535-40d4-b2ac-cb443d95b227@configfori.up.railway.app:443?encryption=none&security=tls&sni=configfori.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=configfori.up.railway.app&path=/Telegram2:@Configfori#Telegram:
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#T.me/Vpn_Mafia
+ss://YWVzLTEyOC1nY206MTlmYmNjMDc5Y2E5ZGJmYTYxOTQ1MGRlOTdiMjMzYWI@139.59.238.97:10573#Tel-@ProxyMtAlpha🦒
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.106.73:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.106.74:19999#🇸🇬
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.47:19999#🇸🇬
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.74:19999#🇸🇬
